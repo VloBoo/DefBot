@@ -1,0 +1,16 @@
+plugins {
+    id 'java'
+}
+
+group 'org.example'
+version '1.0-SNAPSHOT2'
+
+dependencies {
+    compile 'net.dv8tion:JDA:4.2.0_228'
+}
+
+repositories {
+    jcenter()
+}
+
+
